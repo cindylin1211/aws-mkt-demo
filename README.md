@@ -317,7 +317,7 @@
         </div>
 
         <div class="typing-indicator" id="typingIndicator">
-            <div class="bot-avatar">AWS</div>
+            <div class="bot-avatar">AWS</div> 
             <div class="typing-dots">
                 <span></span>
                 <span></span>
